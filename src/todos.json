@@ -1,0 +1,23 @@
+{
+    "todos":
+    [
+        {
+            "title" :"Task 1",
+            "responsible" : "Jonny",
+            "desription": "lorem  impsup 1",
+            "priority": "low"
+        } ,
+        {
+            "title" :"Task 2",
+            "responsible" : "Ryan",
+            "desription": "lorem  impsup 2",
+            "priority": "medium"
+        } ,
+        {
+            "title" :"Task 3",
+            "responsible" : "Manu",
+            "desription": "lorem  impsup 3",
+            "priority": "high"
+        } 
+    ]
+}
